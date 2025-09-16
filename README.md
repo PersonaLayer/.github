@@ -92,7 +92,6 @@ Our profiles are organized into 8 categories:
 | 🔊 Hearing & Media | 2 | Visual Notifications, Captions |
 | 🤖 Input Style | 1 | Voice-Only User |
 | 🛡️ General Safety | 2 | No Autoplay, Seizure-Safe |
-| 🧠 Advanced Cognitive | 1 | Language Variance |
 
 [📖 Complete Profile Documentation](./docs/profiles.md)
 
