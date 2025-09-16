@@ -86,13 +86,12 @@ Our profiles are organized into 9 categories:
 |----------|-------|----------|
 | 🔍 Visual Accessibility | 5 | Low Vision, Color Blindness, Photophobia |
 | 🖱️ Motor & Navigation | 4 | Reduced Dexterity, Keyboard-Only |
-| 🧠 Cognitive & Neurodivergent | 10 | ADHD, Dyslexia, High Cognitive Load |
+| 🧠 Cognitive & Neurodivergent | 11 | ADHD, Dyslexia, High Cognitive Load |
 | 🎯 Personalization-Oriented | 8 | Minimalist, Power User, Speed Prioritizer |
 | 🧠 Behavioral & Emotional | 13 | Anxious User, Impatient User, Explorer |
 | 🔊 Hearing & Media | 2 | Visual Notifications, Captions |
 | 🤖 Input Style | 1 | Voice-Only User |
 | 🛡️ General Safety | 2 | No Autoplay, Seizure-Safe |
-| 🧠 Advanced Cognitive | 1 | Language Variance |
 
 [📖 Complete Profile Documentation](./docs/profiles.md)
 
