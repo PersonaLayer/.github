@@ -80,7 +80,7 @@ python run_evaluation.py --testcases data/test_cases.csv
 
 ## 📊 The 45 UX Profiles
 
-Our profiles are organized into 9 categories:
+Our profiles are organized into 8 categories:
 
 | Category | Count | Examples |
 |----------|-------|----------|
