@@ -1,5 +1,5 @@
 # PersonaLayer: Profile-Informed Web Personalization
-
+**PAPER PENDING**
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-green)](./PL_WebAssist)
 [![Evaluation Suite](https://img.shields.io/badge/Evaluation-Suite-blue)](./PL_WebEval)
